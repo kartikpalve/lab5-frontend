@@ -1,4 +1,5 @@
 // Firebase configuration - replace with your own config
+import { initializeApp } from "https://www.gstatic.com/firebasejs/11.5.0/firebase-app.js";
 const firebaseConfig = {
   apiKey: "AIzaSyAhEGC0bxwRKEbRFQFc99FAzYhL2rhWhFg",
   authDomain: "astute-impulse-447907-u1.firebaseapp.com",
